@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello World
 
-<!--
-**Tezin1/Tezin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Marcelino
 
-Here are some ideas to get you started:
+Estudo na E.E Pedrina Pires Zadra, 3°A
+- Estamos estudando programação, Java Script.
+- Gosto de estudar programação e jogar no PC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Você pode entrar em contato comigo para:
+- Conversar sobre projetos
+- Compartilhar ideias
+
+### Como entrar em contato comigo
+00001096033409sp@al.educacao.sp.gov.br
+
+te1096033409@gmail.com
